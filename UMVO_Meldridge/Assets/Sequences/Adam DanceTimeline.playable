@@ -164,8 +164,8 @@ MonoBehaviour:
   m_OpenClipOffsetEulerAngles: {x: 0, y: 0, z: 0}
   m_OpenClipTimeOffset: 0
   m_MatchTargetFields: 63
-  m_Position: {x: -156.709, y: -2.86051, z: -112.30641}
-  m_EulerAngles: {x: 0, y: 48.582, z: 0}
+  m_Position: {x: -162.72688, y: -3.2178643, z: -110.91675}
+  m_EulerAngles: {x: 0, y: 126.04201, z: 0}
   m_ApplyOffsets: 1
   m_AvatarMask: {fileID: 0}
   m_ApplyAvatarMask: 1
